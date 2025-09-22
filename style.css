@@ -1,0 +1,22 @@
+.DivIsiaoRed
+{
+  color: red;
+  border: 5px solid red;
+}
+#roxo{
+  color: blueviolet;
+}
+#btnRedH2{
+  background-color: aqua;
+}
+#btnBlueH1
+{
+  color: blue;
+  background-color: aqua;
+  height: 120px;
+  width: 150px;
+}
+
+.divisaoBlue{
+  border: 12px dotted blue;
+}
